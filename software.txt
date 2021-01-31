@@ -1,9 +1,9 @@
-vlc 
-mpd
+vlc
 keepassxc
 pcmanfm
 unzip
 zip
+libreoffice
 unrar
 git
 networkmanager
@@ -18,6 +18,10 @@ youtube-dl
 gimp
 zathura
 python3
-vim
+neovim
 htop
 neofetch
+emacs
+virtualbox
+sage
+kitty
